@@ -17,7 +17,7 @@ sidebar-avatar: /img/sidebar-touxiang.jpg     # use absolute URL, seeing it's us
 
 
 # SNS settings
-RSS: true
+RSS: false
 #weibo_username:   
 zhihu_username:     
 github_username:     yuchangonline
