@@ -1,7 +1,7 @@
 # Site settings
 title: YC 
-SEOTitle: 于尝的博客 | YC Blog
-header-img: img/
+SEOTitle: YC
+header-img: img/post-bg-rwd.png
 email: 3170298082@qq.com
 description: "just for fun"
 keyword: ""
@@ -11,19 +11,19 @@ github_repo: "https://github.com/yuchangonline/yuchangonline.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                                 # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/                         # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "ich liebe dich"
+sidebar-avatar: /img/sidebar-touxiang.jpg     # use absolute URL, seeing it's used in both `/` and `/about/` 个人头像
 
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-#github_username:    qiubaiying
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+RSS: true
+#weibo_username:   
+zhihu_username:     
+github_username:     yuchangonline
+facebook_username:  baiying.qiu.7
+#jianshu_username:   
+twitter_username:   
 
 
 
@@ -39,7 +39,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
