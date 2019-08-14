@@ -4,13 +4,13 @@ title:      markdown
 subtitle:   先得学会markdown
 date:       2019-08-12
 author:     YC
-header-img: img/2019-08-12.png
+header-img: img/blog-bg.png
 catalog: true
 tags:
     - 学习
 ---
 
-学习markdown
+学习markdown（仅作测试）
 
 来源：[https://www.jianshu.com/p/191d1e21f7ed](https://www.jianshu.com/p/191d1e21f7ed)  
       [http://www.markdown.cn/](http://www.markdown.cn/)  
